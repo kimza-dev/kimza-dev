@@ -4,10 +4,6 @@
 
 # 📊 GitHub:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kimza-dev&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimza-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/kimza_abdihakim)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -15,5 +11,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdihakim-a-21839817a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kimza_abdihakim) 
 
----
+---🐦---
 [![](https://visitcount.itsvg.in/api?id=kimza&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimza-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
