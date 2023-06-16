@@ -11,7 +11,6 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kimza-dev&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api?username=kimza-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimza-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
