@@ -13,4 +13,4 @@
 
 ## ---🐦---
 [![](https://visitcount.itsvg.in/api?id=kimza&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimza-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimza-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
