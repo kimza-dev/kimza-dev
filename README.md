@@ -5,6 +5,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## ---🐦---
-[![](https://visitcount.itsvg.in/api?id=kimza&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdihakim-a-21839817a/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kimza_abdihakim) 
+[![](https://visitcount.itsvg.in/api?id=kimza&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdihakim-a-21839817a/) <br>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kimza_abdihakim) <br>
